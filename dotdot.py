@@ -36,7 +36,7 @@ st.sidebar.header("Filters 📊")
 # Introduction
 
 # HR Attrition Dashboard
-
+st.image('MicrosoftTeams-image.png')
 st.markdown("""
             Welcome to the 'Wine Wonderland' dataset, where every sip is an adventure, and every data point is a grape waiting to tell its story. Just like a fine wine, this dataset has been aged to perfection, with notes of statistics, flavors of features, and a bouquet of insights that will leave you swirling with excitement. Explore the world of wines through the lens of data, and who knows, you might just discover the secret recipe for the world's most data-driven wine tasting party. 
             So, grab your data glasses, toast to the data sommelier, and let's embark on a journey that's as smooth as a silky Pinot Noir and as intriguing as a complex Bordeaux. Cheers to data, insights, and a little wine-induced laughter along the way! 🍷📊🤣""")
