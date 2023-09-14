@@ -10,7 +10,7 @@ import random
 @st.cache_data  # Cache the function to enhance performance
 def load_data():
     # Define the file path
-    file_path = '/Users/alexanderberggren/Library/Mobile Documents/com~apple~CloudDocs/Aalborg Universitet/Kandidat/7 semester/M1 Introduction to Data Handling, Exploration _ Applied Machine Learning/3/Mappe/Opgave 2/datasets/datasets/wine_market/wine_market.csv'
+    file_path = 'https://raw.githubusercontent.com/AlexanderB111/APP-opgave/main/wine_market.csv'
     
     # Load the CSV file into a pandas dataframe
     df = pd.read_csv(file_path)
